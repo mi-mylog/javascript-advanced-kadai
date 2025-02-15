@@ -111,7 +111,7 @@ const gameOver = id => {
   if(result == true) {
     window.location.reload();
   }
-  }, 10000);
+  }, 10);
 };
 
 // タイマー部分のHTML要素（p要素）を取得する
